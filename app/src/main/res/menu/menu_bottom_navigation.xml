@@ -2,11 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/bestSelling"
+        android:id="@+id/nav_books"
         android:icon="@drawable/baseline_menu_book_24"
         android:title="Books" />
     <item
-        android:id="@+id/articleSearch"
+        android:id="@+id/nav_articles"
         android:icon="@drawable/baseline_article_24"
         android:title="Articles" />
 
